@@ -1,0 +1,6 @@
+{
+  "name": "SG Canli TV",
+  "description": "Turkiye'nin calisabilen tum canlı TV yayinlari ve kanallari, Serhat Guner hakkinda butonu ile birlikte.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
